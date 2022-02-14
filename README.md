@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Language, libraries and Tools
+### Tools, languages and libraries:
 <img align="left" alt="C" width="40px" src="https://user-images.githubusercontent.com/38051336/153646740-4816fed9-02a1-49f4-bee7-32c5b2a39905.png"/>
 <img align="left" alt="C" width="40px" src="https://user-images.githubusercontent.com/38051336/153684531-4aad7e16-4d7f-41eb-9a34-75420081f03e.png"/>
 <img align="left" alt="C" width="40px" src="https://user-images.githubusercontent.com/38051336/153646838-a5cfe3d0-572f-441d-8623-6f3e91f37eb6.png"/>
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ---
 <div>
   <a href="https://github.com/a-lvaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-lvaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lvaro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-lvaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lvaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
