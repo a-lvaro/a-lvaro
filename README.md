@@ -33,4 +33,14 @@ Here are some ideas to get you started:
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-lvaro&show_icons=true&theme=dark&count_private=true)
+  
+  
+  
+  
+  <p align="center">
+  <img width="460" height="200" src="https://github-readme-stats.vercel.app/api?username=a-lvaro&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" >
+</p>
+<p align="center">
+  <img width="460" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lvaro&layout=compact&theme=synthwave" alt="Top Langs" >
+</p>
 
