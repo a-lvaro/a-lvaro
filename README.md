@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ---
 <div>
   <a href="https://github.com/a-lvaro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=a-lvaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lvaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
   
   
   <p align="center">
-  <img width="460" height="200" src="https://github-readme-stats.vercel.app/api?username=a-lvaro&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" >
+  <img width="460" height="200" src="https://github-readme-stats.vercel.app/api?username=a-lvaro&show_icons=true&theme=synthwave&count_private=true" alt="Anurag's GitHub stats" >
 </p>
 <p align="center">
   <img width="460" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lvaro&layout=compact&theme=synthwave" alt="Top Langs" >
