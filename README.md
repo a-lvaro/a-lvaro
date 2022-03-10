@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-de-ara%C3%BAjo-71b213113)
+&nbsp;
+
 ### Tools, languages and libraries:
 <img align="left" alt="C" width="40px" src="https://user-images.githubusercontent.com/38051336/153646740-4816fed9-02a1-49f4-bee7-32c5b2a39905.png"/>
 <img align="left" alt="C" width="40px" src="https://user-images.githubusercontent.com/38051336/153684531-4aad7e16-4d7f-41eb-9a34-75420081f03e.png"/>
